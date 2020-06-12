@@ -1,0 +1,27 @@
+.item {
+	text-align: center;
+}
+.navbar {
+	margin-bottom: 10%;
+}
+.food {
+	padding: 15px;
+}
+.bitem {
+	border: 1px solid black;
+}
+.empty {
+	width: 2000px;
+	height: 2000px;
+	background-color: yellow;
+}
+section {
+	padding: 20px;
+	border:2px solid black;
+	text-align: center;
+	background-color: #6DDAF5;
+}
+h2 {
+	background-color: #EEF02B;
+	border: 2px solid black;
+}
